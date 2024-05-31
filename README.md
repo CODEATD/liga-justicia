@@ -11,3 +11,5 @@ Esto es un mensaje editado desde GitHub
 
 ### Pull Request configurado
 Esto es una prueba
+
+## Estos cambios son nuevos
