@@ -15,3 +15,4 @@ Esto es una prueba
 ## Estos cambios son nuevos
 
 Estos cambios son desde GitHub
+Estos cambios son desde el repositorio local
